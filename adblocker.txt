@@ -1,0 +1,32 @@
+# Title: fuck-you-zingmp3 (adblocker)
+# Homepage: https://github.com/zalofucker/fuck-you-zingmp3
+# ..............
+
+||hoto-zmp3.zmdcdn.me^
+||ls.zingmp3.vn^
+||sp.zalo.me^
+||s240-ava-talk-zmp3.zmdcdn.me^
+||universal-zinstant.api.zaloapp.com^
+||s240-ava-talk.zadn.vn^
+||lp.zingmp3.vn^
+||a-f64-zpg-r.zdn.vn^
+||a-f63-zpg-r.zdn.vn^
+||oauth.zaloapp.com^
+||a-f65-zpg-r.zdn.vn^
+||a-f62-zpg-r.zdn.vn^
+||photo-resize-zmp3.zmdcdn.me^
+||zmp3-static.zmdcdn.me^
+||static-zmp3.zmdcdn.me^
+||zmp3-photo.zadn.vn^
+||zmp3-photo.zmdcdn.me^
+||log.zingmp3.vn^
+||cfg-api.zingmp3.vn^
+||api.zingmp3.vn^
+||ztevents.zaloapp.com^
+||m.zingmp3.vn^
+||m.mp3.zing.vn^
+||mp3.zing.vn^
+||zingmp3.vn^
+||320-z3.zmdcdn.me^
+||preview-z3.zmdcdn.me^
+||photo-zmp3.zmdcdn.me^

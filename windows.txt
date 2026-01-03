@@ -1,0 +1,32 @@
+# Title: fuck-you-zingmp3 (windows)
+# Homepage: https://github.com/zalofucker/fuck-you-zingmp3
+# ..............
+
+0.0.0.1 hoto-zmp3.zmdcdn.me
+0.0.0.1 ls.zingmp3.vn
+0.0.0.1 sp.zalo.me
+0.0.0.1 s240-ava-talk-zmp3.zmdcdn.me
+0.0.0.1 universal-zinstant.api.zaloapp.com
+0.0.0.1 s240-ava-talk.zadn.vn
+0.0.0.1 lp.zingmp3.vn
+0.0.0.1 a-f64-zpg-r.zdn.vn
+0.0.0.1 a-f63-zpg-r.zdn.vn
+0.0.0.1 oauth.zaloapp.com
+0.0.0.1 a-f65-zpg-r.zdn.vn
+0.0.0.1 a-f62-zpg-r.zdn.vn
+0.0.0.1 photo-resize-zmp3.zmdcdn.me
+0.0.0.1 zmp3-static.zmdcdn.me
+0.0.0.1 static-zmp3.zmdcdn.me
+0.0.0.1 zmp3-photo.zadn.vn
+0.0.0.1 zmp3-photo.zmdcdn.me
+0.0.0.1 log.zingmp3.vn
+0.0.0.1 cfg-api.zingmp3.vn
+0.0.0.1 api.zingmp3.vn
+0.0.0.1 ztevents.zaloapp.com
+0.0.0.1 m.zingmp3.vn
+0.0.0.1 m.mp3.zing.vn
+0.0.0.1 mp3.zing.vn
+0.0.0.1 zingmp3.vn
+0.0.0.1 320-z3.zmdcdn.me
+0.0.0.1 preview-z3.zmdcdn.me
+0.0.0.1 photo-zmp3.zmdcdn.me

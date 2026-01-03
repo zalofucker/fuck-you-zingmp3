@@ -1,0 +1,32 @@
+# Title: fuck-you-zingmp3 (unbounddns)
+# Homepage: https://github.com/zalofucker/fuck-you-zingmp3
+# ..............
+
+local-zone: "hoto-zmp3.zmdcdn.me" always_null
+local-zone: "ls.zingmp3.vn" always_null
+local-zone: "sp.zalo.me" always_null
+local-zone: "s240-ava-talk-zmp3.zmdcdn.me" always_null
+local-zone: "universal-zinstant.api.zaloapp.com" always_null
+local-zone: "s240-ava-talk.zadn.vn" always_null
+local-zone: "lp.zingmp3.vn" always_null
+local-zone: "a-f64-zpg-r.zdn.vn" always_null
+local-zone: "a-f63-zpg-r.zdn.vn" always_null
+local-zone: "oauth.zaloapp.com" always_null
+local-zone: "a-f65-zpg-r.zdn.vn" always_null
+local-zone: "a-f62-zpg-r.zdn.vn" always_null
+local-zone: "photo-resize-zmp3.zmdcdn.me" always_null
+local-zone: "zmp3-static.zmdcdn.me" always_null
+local-zone: "static-zmp3.zmdcdn.me" always_null
+local-zone: "zmp3-photo.zadn.vn" always_null
+local-zone: "zmp3-photo.zmdcdn.me" always_null
+local-zone: "log.zingmp3.vn" always_null
+local-zone: "cfg-api.zingmp3.vn" always_null
+local-zone: "api.zingmp3.vn" always_null
+local-zone: "ztevents.zaloapp.com" always_null
+local-zone: "m.zingmp3.vn" always_null
+local-zone: "m.mp3.zing.vn" always_null
+local-zone: "mp3.zing.vn" always_null
+local-zone: "zingmp3.vn" always_null
+local-zone: "320-z3.zmdcdn.me" always_null
+local-zone: "preview-z3.zmdcdn.me" always_null
+local-zone: "photo-zmp3.zmdcdn.me" always_null

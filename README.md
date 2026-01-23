@@ -3,6 +3,7 @@
 #**HIỆN TẠI CHUNG TÔI CẦN HỖ TRỢ XÂY DỰNG README TRONG VIỆC CÁCH SETUP BLOCKLIST!?!?!?!**
 
 Lấy lại quyền riêng tư và ủng hộ sử dụng các ứng dụng nghe nhạc khác tốt hơn nghìn lần Zing Mp3.
+
 Dự án này cung cấp danh sách các tên miền (domains) và địa chỉ IP được sử dụng bởi Zalo (VNG) cho mục đích quảng cáo, theo dõi người dùng (tracking), và thu thập dữ liệu nền (telemetry), nhắn tin, máy chủ
 
 # ⚖️ Tuyên bố từ chối trách nhiệm
@@ -31,7 +32,7 @@ Chọn Add Blocklist -> Add a custom list.
 
 Dán [URL](https://raw.githubusercontent.com/zalofucker/fuck-you-zingmp3/refs/heads/main/adblocker.txt) sau
 
-Đặt tên (ví dụ: zalo-fucker) và nhấn Save.
+Đặt tên (ví dụ: zingmp3-fucker) và nhấn Save.
 
 ## 2. Pi-hole / OpenSnitch
 
@@ -79,7 +80,7 @@ Mở Terminal.
 
 Tạo và mở file (ví dụ đặt tên là zaloblocklist.conf) (có thể dùng nano, vim,...):
 
-```sudo nano /etc/unbound/zaloblocklist.conf```
+```sudo nano /etc/unbound/zingmp3blocklist.conf```
 
 Bước 2: Dán nội dung vào file
 Copy toàn bộ danh sách ở file [này](https://raw.githubusercontent.com/zalofucker/fuck-you-zingmp3/refs/heads/main/unbound.txt) sau đó lưu lại file
@@ -220,9 +221,9 @@ Bước 7: Về lại màn hình chính và nhấn nút Play (hình tam giác) �
 ## 9.dnsmasq
 Bước 1: Tải về file cấu hình [này](https://raw.githubusercontent.com/zalofucker/fuck-you-zingmp3/refs/heads/main/dnsmasq.conf)
 
-Bước 2: Tạo một file cấu hình mới trong thư mục cấu hình của dnsmasq (VD:zalofucker)
+Bước 2: Tạo một file cấu hình mới trong thư mục cấu hình của dnsmasq (VD:zingmp3fucker)
 
-```sudo nano /etc/dnsmasq.d/zalofucker.conf```
+```sudo nano /etc/dnsmasq.d/zingmp3fucker.conf```
 
 Bước 3: Mở cái file cấu hình mới vừa tạo và dán những gì có trong file đã có ở bước 1 vào
 
@@ -248,6 +249,21 @@ Bước 3: Tìm ô Additional DNSMasq Options (Tùy chọn bổ sung).
 Bước 4: Dán danh sách trên vào ô đó.
 
 Bước 5: Nhấn Save và Apply Settings.
+
+## 10. RouterOS
+
+Bước 1: Lưu file [này](https://raw.githubusercontent.com/zalofucker/fuck-you-zalo/refs/heads/main/mikrotik.rsc)
+
+Bước 2: Mở New Terminal.
+
+Bước 3: Sử dụng lệnh sau để nhập dữ liệu:
+
+
+```/import mikrotik.rsc```
+
+
+**Nếu bạn không muốn tạo file, bạn cũng có thể copy toàn bộ nội dung script và dán (Paste) trực tiếp vào cửa sổ New Terminal là được.**
+
 # 🤝 Đóng góp 
 ## Hiện tại tôi rất cần các bạn tìm ra những phốt của zalo để tôi up lên README vậy nên nếu bạn nào có vui lòng tạo issue giúp tôi!?!?!?
 

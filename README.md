@@ -252,7 +252,7 @@ Bước 5: Nhấn Save và Apply Settings.
 
 ## 10. RouterOS
 
-Bước 1: Lưu file [này](https://raw.githubusercontent.com/zalofucker/fuck-you-zalo/refs/heads/main/mikrotik.rsc)
+Bước 1: Lưu file [này](https://raw.githubusercontent.com/zalofucker/fuck-you-zingmp3/refs/heads/main/mikrotik.rsc)
 
 Bước 2: Mở New Terminal.
 
